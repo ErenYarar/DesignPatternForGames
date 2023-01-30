@@ -22,4 +22,24 @@ using UnityEngine;
 //                 break;
 //         }
 //     }
+// void Update()
+// {
+//     if (Input.GetKey(KeyCode.W))
+//     {
+//         movementSubject.NotifyObservers("up");
+//     }
+//     if (Input.GetKey(KeyCode.S))
+//     {
+//         movementSubject.NotifyObservers("down");
+//     }
+//     if (Input.GetKey(KeyCode.A))
+//     {
+//         movementSubject.NotifyObservers("left");
+//     }
+//     if (Input.GetKey(KeyCode.D))
+//     {
+//         movementSubject.NotifyObservers("right");
+//     }
+// }
+
 // }
